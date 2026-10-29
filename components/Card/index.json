@@ -1,0 +1,24 @@
+{
+  "type": "custom-component",
+  "name": "Card",
+  "children": [
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "children": [],
+      "type": "core-component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": []
+}
