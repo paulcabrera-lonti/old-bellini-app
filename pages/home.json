@@ -4,5 +4,35 @@
   "url": "/home",
   "params": {},
   "variables": [],
-  "children": []
+  "children": [
+    {
+      "name": "Card",
+      "nodeName": "Card",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "xd-LT1"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "ownerId": "6ae2a71cfa1e497f54ef9ae1",
+      "ownerType": "app",
+      "expressions": []
+    }
+  ]
 }
